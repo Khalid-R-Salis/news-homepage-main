@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/Khalid-R-Salis/news-homepage-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://news-homepage-main-sand.vercel.app/)
 
 ## My process
 
